@@ -1,0 +1,18 @@
+npx create-react-app personal-portfolio
+yarn install
+yarn add v-(version no.)
+cd personal-portfolio
+npm install react-bootstrap bootstrap
+
+{cd personal-portfolio
+npm start}(main,if it's not work,then start from 1st to last)
+
+npm install react-bootstrap-icons --save
+npm i react-multi-carousel(for skill section)
+npm install express cors nodemailer
+npm i react-mailchimp-subscribe
+npm install animate.css --save
+npm i react-on-screen
+npm install react-router-hash-link
+
+nodemon server.js
